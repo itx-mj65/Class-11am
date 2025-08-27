@@ -1,0 +1,22 @@
+h1{
+    color: rgb(77, 90, 90);
+    /* text-align:end ; */
+    direction: ltr;
+    text-decoration: overline;
+    text-decoration-color: blue;
+    text-decoration-style: double;
+    text-decoration-thickness: 5px;
+    text-shadow: 22px 33px 3px green;
+    font-style: oblique;
+}
+
+p{
+    text-transform: none;
+    text-indent: 50px;
+    font-weight: lighter;
+    font-size: 22px;
+    letter-spacing: 2px;
+    line-height: 30px;
+    word-spacing: 20px;
+    white-space: 30px;
+}
