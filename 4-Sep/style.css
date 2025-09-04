@@ -1,0 +1,46 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    height: 500px;
+    background: violet;
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-wrap: wrap-reverse; */
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.box1{
+    background-color: lightcoral;
+}
+.box2{
+    background-color: lightseagreen;
+}
+.box3{
+    background-color: lightblue;
+}
+.box4{
+    background-color: lightgoldenrodyellow;
+}
+.box5{
+    background-color: lightpink;
+}
+.box6{
+    background-color: lightgray;
+}
+.box7{
+    background-color: lightcyan;
+}
+.box8{
+    background-color: lightgreen;
+}
+.box9{
+    background-color: lightsteelblue;
+}
